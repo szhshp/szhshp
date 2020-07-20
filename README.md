@@ -1,6 +1,6 @@
 ### I'm szhielelp (aka szhshp)
 
-Developer, Gamer, Writer, Cartoonist, traveller.
+Developer, Gamer, Writer, Cartoonist, Traveller.
 
 https://szhshp.org
 
