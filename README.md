@@ -1,4 +1,4 @@
-### I'm szhielelp (aka szhshp)
+### szhielelp
 
 Developer, Gamer, Writer, Cartoonist, Traveller.
 
