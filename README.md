@@ -1,7 +1,8 @@
 ### szhielelp
 
-Developer, Gamer, Writer, Cartoonist, Traveller.
+Developer, Gamer, Writer, Cartoonist, Traveller, 中国人
 
+Currently working on [Project Bisheng](https://github.com/szhielelp/bisheng)
 
 ### 📫My Sites
 
