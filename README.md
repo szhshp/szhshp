@@ -8,9 +8,7 @@ Currently working on [Project Bisheng](https://github.com/szhielelp/bisheng)
 
 - Main Blog
   - https://szhshp.org
-- Music FM
-  - https://musicroom.szhshp.org
-- Self Hosted Library
+- Personal Library
   - https://note.szhshp.org
 - Game Scoreboard
   - https://game.szhshp.org
