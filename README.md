@@ -4,11 +4,9 @@ Developer, Gamer, Writer, Cartoonist, Traveller, 中国人
 
 ### 📫My Sites
 
-- Main Blog
+- Blog
   - https://szhshp.org
-- Personal Library
+- Personal Wiki
   - https://note.szhshp.org
-- Game Scoreboard
-  - https://game.szhshp.org
 - Project Titan
   - https://titan.szhshp.org
