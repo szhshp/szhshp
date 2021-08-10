@@ -6,7 +6,7 @@ Developer, Gamer, Writer, Cartoonist, Traveller, 中国人
 
 - Blog
   - https://szhshp.org
-- Personal Wiki
+- Self hosted knowledge base
   - https://note.szhshp.org
 - Project Titan
   - https://titan.szhshp.org
