@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Szhshp</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=szhielelp&label=Profile%20views&color=0e75b6&style=flat" alt="szhielelp" /> </p>
 
+- Developer, Gamer, Writer, Cartoonist, Traveller, 中国人
+
 - 🔭 I’m currently working on **szhshp-next-generation**
 
 - 🌱 I’m currently learning **docker, webpack**
