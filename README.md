@@ -13,7 +13,7 @@
 - Ask me about **react, nextjs, nodejs**
 
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Tags:</h3>
 
 `android` `aws` `azure` `babel` `bootstrap` `docker` `electron` `express` `gatsby` `graphql` `hexo` `javascript` `jekyll` `jest` `materialize` `mocha` `mongodb` `mysql` `nextjs` `nodejs` `photoshop` `postman` `react` `reactnative` `redux` `sass` `tailwind` `typescript` `webpack` 
 
