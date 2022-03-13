@@ -4,18 +4,17 @@
 
 - Developer, Gamer, Writer, Cartoonist, Traveller, 中国人
 
-<!-- - I’m currently working on **szhshp-next-generation** -->
+- I’m currently working on **szhshp-next-generation**
 
-- I’m currently learning **docker, vite**
+- I’m currently learning **jest, react testing lib**
 
 - I regularly write articles on [https://szhshp.org](https://szhshp.org)
 
-- Ask me about **react, nextjs, nodejs**
-
+- Ask me about **react, nextjs**
 
 <h3 align="left">Tags:</h3>
 
-`android` `aws` `azure` `babel` `bootstrap` `docker` `electron` `express` `gatsby` `graphql` `hexo` `javascript` `jekyll` `jest` `materialize` `mocha` `mongodb` `mysql` `nextjs` `nodejs` `photoshop` `postman` `react` `reactnative` `redux` `sass` `tailwind` `typescript` `webpack` 
+`aws` `azure` `babel` `bootstrap` `electron` `express` `gatsby` `graphql` `javascript` `jest` `materialUI` `mocha` `mongodb` `mysql` `nextjs` `nodejs` `photoshop` `postman` `react` `reactnative` `redux` `sass` `tailwind` `typescript` `webpack` 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=szhshp&show_icons=true&locale=en&layout=compact" alt="szhshp" /></p>
 
