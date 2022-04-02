@@ -4,9 +4,9 @@
 
 - Developer, Gamer, Writer, Cartoonist, Traveller, 中国人
 
-- I’m currently working on **szhshp-next-generation**
+- I’m currently working on **szhshp-notebook-remix**
 
-- I’m currently learning **jest, react testing lib**
+- I’m currently learning **remixJS, containerization, react testing lib**
 
 - I regularly write articles on [https://szhshp.org](https://szhshp.org)
 
