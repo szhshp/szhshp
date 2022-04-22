@@ -20,7 +20,6 @@
 - https://game.dos2.szhshp.org
 - https://memo.szhshp.org
 - https://music.szhshp.org
-- https://res.szhshp.org
 
 <h3 align="left">Tags:</h3>
 
