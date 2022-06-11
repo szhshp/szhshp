@@ -15,7 +15,7 @@
 <h3 align="left">My Sites:</h3>
 
 - https://szhshp.org
-- https://note.legacy.szhshp.org
+- https://note.szhshp.org
 - https://titan.szhshp.org
 - https://game.dos2.szhshp.org
 - https://memo.szhshp.org
