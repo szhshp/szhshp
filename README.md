@@ -10,8 +10,6 @@
 
 - I regularly write articles on [https://szhshp.org](https://szhshp.org)
 
-- Ask me about **react, nextjs**
-
 <h3 align="left">My Sites:</h3>
 
 - https://szhshp.org
@@ -23,7 +21,7 @@
 
 <h3 align="left">Tags:</h3>
 
-`aws` `azure` `babel` `bootstrap` `electron` `express` `gatsby` `graphql` `javascript` `jest` `materialUI` `mocha` `mongodb` `mysql` `nextjs` `nodejs` `photoshop` `postman` `react` `reactnative` `redux` `sass` `tailwind` `typescript` `webpack` 
+`aws` `azure` `babel` `bootstrap` `electron` `express` `gatsby` `graphql` `javascript` `jest` `materialUI` `mocha` `mongodb` `mysql` `nextjs` `nodejs` `photoshop` `postman` `react` `reactnative` `redux` `sass` `tailwind` `typescript` `webpack` `java` `SQL Server` `Oracle` 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=szhshp&show_icons=true&locale=en&layout=compact" alt="szhshp" /></p>
 
