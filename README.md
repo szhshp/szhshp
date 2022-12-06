@@ -4,9 +4,9 @@
 
 - Developer, Gamer, Writer, Cartoonist, Traveller, 中国人
 
-- I’m currently working on **szhshp-remix**
+<!-- - I’m currently working on **szhshp-remix** -->
 
-- I’m currently learning **remixJS, react testing lib** (and cooking).
+- I’m currently learning **Cypress** (and cooking).
 
 - I regularly write articles on [https://szhshp.org](https://szhshp.org)
 
@@ -14,10 +14,9 @@
 
 - https://szhshp.org
 - https://note.szhshp.org
-- https://titan.szhshp.org
-- https://game.dos2.szhshp.org
-- https://memo.szhshp.org
 - https://music.szhshp.org
+- https://titan.szhshp.org
+- https://memo.szhshp.org
 
 <h3 align="left">Tags:</h3>
 
