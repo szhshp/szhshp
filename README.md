@@ -6,7 +6,7 @@
 
 <!-- - I’m currently working on **szhshp-remix** -->
 
-- I’m currently learning **Cypress** (and cooking).
+- I’m currently learning Cypress, Rust (and cooking).
 
 - I regularly write articles on [https://szhshp.org](https://szhshp.org)
 
