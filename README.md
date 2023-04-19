@@ -4,7 +4,7 @@
 
 - Developer, Gamer, Writer, Cartoonist, Traveller, 中国人
 
-<!-- - I’m currently working on **szhshp-remix** -->
+- I’m currently working on [an experimental 2D game with Rust](https://toys.szhshp.org)
 
 - I’m currently learning Cypress, Rust (and cooking).
 
