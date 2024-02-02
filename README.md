@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=szhshp&label=Profile%20views&color=0e75b6&style=flat" alt="szhshp" /> </p>
 
-- Developer, Gamer, Writer, Cartoonist, Traveller, 中国人
+- Developer, Game Producer, Writer, Cartoonist, Traveller, 中国人
 
 - I’m currently working on [an experimental 2D game with Rust](https://toys.szhshp.org)
 
