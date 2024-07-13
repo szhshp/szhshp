@@ -4,9 +4,9 @@
 
 - Developer, Game Producer, Writer, Cartoonist, Traveller, 中国人
 
-- I’m currently working on a [indie game](https://shorturl.at/fAqCy)
+- I’m currently working on an [indie game](https://shorturl.at/fAqCy)
 
-- I’m currently learning ~~Cypress~~ Playwright, Rust, Bevy (and cooking).
+- I’m currently learning Rust, Bevy, System Architecture (and cooking).
 
 - I regularly write articles on [https://szhshp.org](https://szhshp.org)
 
