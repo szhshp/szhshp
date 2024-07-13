@@ -4,9 +4,9 @@
 
 - Developer, Game Producer, Writer, Cartoonist, Traveller, 中国人
 
-- I’m currently working on [an experimental 2D game with Rust](https://toys.szhshp.org)
+- I’m currently working on a [indie game](https://shorturl.at/fAqCy)
 
-- I’m currently learning ~~Cypress~~ Playwright, Rust (and cooking).
+- I’m currently learning ~~Cypress~~ Playwright, Rust, Bevy (and cooking).
 
 - I regularly write articles on [https://szhshp.org](https://szhshp.org)
 
@@ -20,7 +20,7 @@
 
 <h3 align="left">Tags:</h3>
 
-`remixjs` `qwik` `playwright` `aws` `azure` `electron` `express` `gatsby` `graphql`  `javascript` `typescript` `jest` `materialUI` `mocha` `mongodb` `mysql` `nextjs` `nodejs` `photoshop` `postman` `react` `redux` `sass` `tailwind` `webpack` `vite` `SQL Server` `Oracle` 
+`rust` `remixjs` `qwik` `playwright` `aws` `azure` `electron` `graphql`  `javascript` `typescript` `jest` `materialUI` `mongodb` `mysql` `nextjs` `nodejs` `photoshop` `react` `redux` `sass` `tailwind` `vite` `SQL Server`
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=szhshp&show_icons=true&locale=en&layout=compact" alt="szhshp" /></p>
 
