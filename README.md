@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=szhshp&label=Profile%20views&color=0e75b6&style=flat" alt="szhshp" /> </p>
 
 - Developer, Game Producer, Writer, Cartoonist, Traveller, 中国人
-- I’m currently learning Rust, Bevy, System Architecture (and cooking).
+- I’m currently learning Rust, Burn, Neutral Network, System Architecture (and cooking).
 - I regularly write articles on [https://szhshp.org](https://szhshp.org)
 
 <h3 align="left">My Sites:</h3>
