@@ -9,7 +9,7 @@
 - I regularly write articles on [https://szhshp.org](https://szhshp.org)
 
 
-### Stacks
+### Stacks (~2026.05)
 
 <h4 align="left">📝 Languages</h4>
 <p align="left">
@@ -34,6 +34,18 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" width="60" height="60" />
   <img src="https://cdn.simpleicons.org/hexo/0E83CD" width="60" height="60" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jekyll/jekyll-original.svg" width="60" height="60" />
+</p>
+
+<h4 align="left">🤖 AI / ML</h4>
+<p align="left">
+  <img src="https://cdn.simpleicons.org/claude" width="60" height="60" />
+  <img src="https://cdn.simpleicons.org/googlegemini" width="60" height="60" />
+  <img src="https://cdn.simpleicons.org/deepseek" width="60" height="60" />
+  <img src="https://cdn.simpleicons.org/anthropic" width="60" height="60" />
+  <img src="https://cdn.simpleicons.org/ollama" width="60" height="60" />
+  <img src="https://cdn.simpleicons.org/huggingface" width="60" height="60" />
+  <img src="https://cdn.simpleicons.org/langchain/1C3C3C" width="60" height="60" />
+  <img src="https://langfuse.com/icon.svg" width="60" height="60" />
 </p>
 
 <h4 align="left">🧩 Full Stack</h4>
@@ -72,21 +84,6 @@
   <img src="https://skillicons.dev/icons?i=git" width="60" height="60" />
   <img src="https://skillicons.dev/icons?i=linux" width="60" height="60" />
   <img src="https://skillicons.dev/icons?i=postman" width="60" height="60" />
-</p>
-
-<h4 align="left">🤖 AI / ML</h4>
-<p align="left">
-  <img src="https://cdn.simpleicons.org/claude" width="60" height="60" />
-  <img src="https://cdn.simpleicons.org/googlegemini" width="60" height="60" />
-  <img src="https://cdn.simpleicons.org/deepseek" width="60" height="60" />
-  <img src="https://cdn.simpleicons.org/langchain/1C3C3C" width="60" height="60" />
-  <img src="https://langfuse.com/icon.svg" width="60" height="60" />
-  <img src="https://cdn.simpleicons.org/huggingface" width="60" height="60" />
-  <img src="https://cdn.simpleicons.org/anthropic" width="60" height="60" />
-  <img src="https://cdn.simpleicons.org/qwen" width="60" height="60" />
-  <img src="https://cdn.simpleicons.org/mistralai" width="60" height="60" />
-  <img src="https://cdn.simpleicons.org/perplexity" width="60" height="60" />
-  <img src="https://cdn.simpleicons.org/ollama" width="60" height="60" />
 </p>
 
 <h4 align="left">🖥️ Desktop & Game Dev</h4>
